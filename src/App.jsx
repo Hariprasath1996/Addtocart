@@ -1,3 +1,4 @@
+import Navbar from "./component/Navbar";
 
 
 const App = () => {
@@ -7,7 +8,7 @@ const App = () => {
 
 
   return ( <>
-
+<Navbar/>
 
   </> );
 }
